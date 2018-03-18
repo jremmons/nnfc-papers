@@ -15,7 +15,7 @@ that are relevant to this project.
 
 [CloneCloud: Elastic Execution between Mobile Device and Cloud (2011)](pdfs/10.1.1.226.1743.pdf)
 
-## Cloud/Mobile split deepnetwork
+## Cloud/Mobile split deep networks
 
 [Edge-Host Partitioning of Deep Neural Networks with Feature Space Encoding for Resource-Constrained Internet-of-Things Platforms (2018)](pdfs/1802.03835.pdf)
 
@@ -25,9 +25,9 @@ that are relevant to this project.
 
 [A Hybrid Approach to Offloading Mobile Image Classification (2014)](pdfs/hauswald14hybrid.pdf)
 
-## Deep net in mobile/edge device
+## Deep networks in mobile/edge device
 
-[Are Very Deep Neural Networks Feasible on Mobile Devices?](pdfs/6d6be118386a1f76f389210ca4e3a87b0d4a.pdf)
+[Are Very Deep Neural Networks Feasible on Mobile Devices? (2016)](pdfs/6d6be118386a1f76f389210ca4e3a87b0d4a.pdf)
 
 ## Feature/Descriptor compression
 
