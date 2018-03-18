@@ -9,25 +9,38 @@ that are relevant to this project.
 
 [Introduction to Data Compression (2013)](pdfs/data_compression.pdf)
 
-## Cloud/Mobile Split network
+## Cloud/Mobile split arbitrary function
 
-[Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge (2017)](pdfs/kang2017neurosurgeon.pdf)
+[COMET: Code Offload by Migrating Execution Transparently (2012)](pdfs/comet_osdi2012.pdf)
+
+[CloneCloud: Elastic Execution between Mobile Device and Cloud (2011)](pdfs/10.1.1.226.1743.pdf)
+
+## Cloud/Mobile split deepnetwork
+
+[Edge-Host Partitioning of Deep Neural Networks with Feature Space Encoding for Resource-Constrained Internet-of-Things Platforms (2018)](pdfs/1802.03835.pdf)
 
 [JointDNN: An Efficient Training and Inference Engine for Intelligent Mobile Cloud Computing Services (2018)](pdfs/1801.08618.pdf)
 
+[Neurosurgeon: Collaborative Intelligence Between the Cloud and Mobile Edge (2017)](pdfs/kang2017neurosurgeon.pdf)
+
 [A Hybrid Approach to Offloading Mobile Image Classification (2014)](pdfs/hauswald14hybrid.pdf)
+
+## Deep net in mobile/edge device
+
+[Are Very Deep Neural Networks Feasible on Mobile Devices?](pdfs/6d6be118386a1f76f389210ca4e3a87b0d4a.pdf)
 
 ## Feature/Descriptor compression
 
-[Interframe Coding of Feature Descriptors for Mobile Augmented Reality (2014)](pdfs/06837523.pdf)
+[A Joint Compression Scheme of Video Feature Descriptors and Visual Content (2017)](pdfs/07745929.pdf)
 
 [Keypoint Encoding for Improved Feature Extraction from Compressed Video at Low Bitrates (2016)](pdfs/1506.08316.pdf)
 
-[A Joint Compression Scheme of Video Feature Descriptors and Visual Content (2017)](pdfs/07745929.pdf)
-
+[Interframe Coding of Feature Descriptors for Mobile Augmented Reality (2014)](pdfs/06837523.pdf)
 
 ## Video/Image retrieval
 
+[Compact Deep Invariant Descriptors for Video Retrieval (2017)](pdfs/07923715.pdf)
+
 [Nested Invariance Pooling and RBM Hashing for Image Instance Retrieval (2016)](pdfs/1603.04595.pdf)
 
-[Compact Deep Invariant Descriptors for Video Retrieval (2017)](pdfs/07923715.pdf)
+
