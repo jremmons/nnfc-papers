@@ -29,7 +29,7 @@ that are relevant to this project.
 
 [Are Very Deep Neural Networks Feasible on Mobile Devices? (2016)](pdfs/6d6be118386a1f76f389210ca4e3a87b0d4a.pdf)
 
-[MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints](pdfs/p123-han.pdf)
+[MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints (2016)](pdfs/p123-han.pdf)
 
 ## Feature/Descriptor compression
 
