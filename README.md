@@ -27,6 +27,8 @@ that are relevant to this project.
 
 ## Deep networks in mobile/edge device
 
+[DeepN-JPEG: A Deep Neural Network Favorable JPEG-based Image Compression Framework (2018)](pdfs/1803.05788.pdf)
+
 [Are Very Deep Neural Networks Feasible on Mobile Devices? (2016)](pdfs/6d6be118386a1f76f389210ca4e3a87b0d4a.pdf)
 
 [MCDNN: An Approximation-Based Execution Framework for Deep Stream Processing Under Resource Constraints (2016)](pdfs/p123-han.pdf)
